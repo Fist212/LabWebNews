@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NewsLab2WEB.props" />
+</Project>

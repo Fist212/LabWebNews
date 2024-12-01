@@ -1,0 +1,6 @@
+@NewsLab2WEB_HostAddress = http://localhost:5036
+
+GET {{NewsLab2WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

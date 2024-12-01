@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.dataaccess\\reposotories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|solutionrelative:newstore.dataaccess\\reposotories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.dataaccess\\entites\\newentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|solutionrelative:newstore.dataaccess\\entites\\newentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.dataaccess\\entites\\configuration\\newconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|solutionrelative:newstore.dataaccess\\entites\\configuration\\newconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.core\\models\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|solutionrelative:newstore.core\\models\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.core\\abstractions\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|solutionrelative:newstore.core\\abstractions\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.core\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|solutionrelative:newstore.core\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3207B5-09E6-4DAC-88E6-F3C47FCB0849}|NewStore.Applycation\\NewStore.Applycation.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.applycation\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3207B5-09E6-4DAC-88E6-F3C47FCB0849}|NewStore.Applycation\\NewStore.Applycation.csproj|solutionrelative:newstore.applycation\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\controllers\\contracts\\newsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\controllers\\contracts\\newsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\controllers\\contracts\\newsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\controllers\\contracts\\newsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\newslab2web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\newslab2web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.dataaccess\\newstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|solutionrelative:newstore.dataaccess\\newstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\newslab2web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\newslab2web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.dataaccess\\newstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCA9600B-4F45-4C5D-9DFD-9B0CE7D12E49}|NewStore.DataAccess\\NewStore.DataAccess.csproj|solutionrelative:newstore.dataaccess\\newstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newslab2web\\newslab2web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9806F4B5-4942-42B6-A9F5-BED2D5C018DC}|NewsLab2WEB\\NewsLab2WEB.csproj|solutionrelative:newslab2web\\newslab2web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.core\\newstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86C064FA-5EEE-4617-9B33-60EB2A8E463C}|NewStore.Core\\NewStore.Core.csproj|solutionrelative:newstore.core\\newstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3207B5-09E6-4DAC-88E6-F3C47FCB0849}|NewStore.Applycation\\NewStore.Applycation.csproj|c:\\users\\\u0433\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\desktop\\labwebnews\\newsback\\newstore.applycation\\newstore.applycation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A3207B5-09E6-4DAC-88E6-F3C47FCB0849}|NewStore.Applycation\\NewStore.Applycation.csproj|solutionrelative:newstore.applycation\\newstore.applycation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\Abstractions\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "NewStore.Core\\Abstractions\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\Abstractions\\INewsRepository.cs",
+              "RelativeToolTip": "NewStore.Core\\Abstractions\\INewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:51:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\Abstractions\\INewsService.cs",
+              "RelativeDocumentMoniker": "NewStore.Core\\Abstractions\\INewsService.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\Abstractions\\INewsService.cs",
+              "RelativeToolTip": "NewStore.Core\\Abstractions\\INewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:14:29.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\Models\\New.cs",
+              "RelativeDocumentMoniker": "NewStore.Core\\Models\\New.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\Models\\New.cs",
+              "RelativeToolTip": "NewStore.Core\\Models\\New.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:43:16.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\Entites\\Configuration\\NewConfiguration.cs",
+              "RelativeDocumentMoniker": "NewStore.DataAccess\\Entites\\Configuration\\NewConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\Entites\\Configuration\\NewConfiguration.cs",
+              "RelativeToolTip": "NewStore.DataAccess\\Entites\\Configuration\\NewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:11:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewEntity.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\Entites\\NewEntity.cs",
+              "RelativeDocumentMoniker": "NewStore.DataAccess\\Entites\\NewEntity.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\Entites\\NewEntity.cs",
+              "RelativeToolTip": "NewStore.DataAccess\\Entites\\NewEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:07:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\Reposotories\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "NewStore.DataAccess\\Reposotories\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\Reposotories\\NewsRepository.cs",
+              "RelativeToolTip": "NewStore.DataAccess\\Reposotories\\NewsRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:19:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Applycation\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "NewStore.Applycation\\Services\\NewsService.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Applycation\\Services\\NewsService.cs",
+              "RelativeToolTip": "NewStore.Applycation\\Services\\NewsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:02:18.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Program.cs",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Program.cs",
+              "RelativeToolTip": "NewsLab2WEB\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:42:10.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "NewsLab2WEB\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:21:29.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Controllers\\Contracts\\NewsResponse.cs",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\Controllers\\Contracts\\NewsResponse.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Controllers\\Contracts\\NewsResponse.cs",
+              "RelativeToolTip": "NewsLab2WEB\\Controllers\\Contracts\\NewsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:31:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Controllers\\Contracts\\NewsRequest.cs",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\Controllers\\Contracts\\NewsRequest.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Controllers\\Contracts\\NewsRequest.cs",
+              "RelativeToolTip": "NewsLab2WEB\\Controllers\\Contracts\\NewsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:55:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NewsLab2WEB\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T15:37:41.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\docker-compose.yml",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\docker-compose.yml",
+              "RelativeToolTip": "NewsLab2WEB\\docker-compose.yml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-31T12:14:16.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsLab2WEB",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\NewsLab2WEB.csproj",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\NewsLab2WEB.csproj",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\NewsLab2WEB.csproj",
+              "RelativeToolTip": "NewsLab2WEB\\NewsLab2WEB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T12:49:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\NewStoreDbContext.cs",
+              "RelativeDocumentMoniker": "NewStore.DataAccess\\NewStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\NewStoreDbContext.cs",
+              "RelativeToolTip": "NewStore.DataAccess\\NewStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:59:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\appsettings.Development.json",
+              "RelativeToolTip": "NewsLab2WEB\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T12:09:39.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewsLab2WEB.http",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\NewsLab2WEB.http",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\NewsLab2WEB.http",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\NewsLab2WEB.http",
+              "RelativeToolTip": "NewsLab2WEB\\NewsLab2WEB.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-30T10:53:03.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NewStore.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\NewStore.DataAccess.csproj",
+              "RelativeDocumentMoniker": "NewStore.DataAccess\\NewStore.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.DataAccess\\NewStore.DataAccess.csproj",
+              "RelativeToolTip": "NewStore.DataAccess\\NewStore.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T09:18:10.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\appsettings.json",
+              "RelativeToolTip": "NewsLab2WEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T12:09:08.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewStore.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\NewStore.Core.csproj",
+              "RelativeDocumentMoniker": "NewStore.Core\\NewStore.Core.csproj",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Core\\NewStore.Core.csproj",
+              "RelativeToolTip": "NewStore.Core\\NewStore.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T08:42:27.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewsLab2WEB.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\NewsLab2WEB.csproj",
+              "RelativeDocumentMoniker": "NewsLab2WEB\\NewsLab2WEB.csproj",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewsLab2WEB\\NewsLab2WEB.csproj",
+              "RelativeToolTip": "NewsLab2WEB\\NewsLab2WEB.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T12:05:19.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewStore.Applycation.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Applycation\\NewStore.Applycation.csproj",
+              "RelativeDocumentMoniker": "NewStore.Applycation\\NewStore.Applycation.csproj",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439\\Desktop\\LabWebNews\\NewsBack\\NewStore.Applycation\\NewStore.Applycation.csproj",
+              "RelativeToolTip": "NewStore.Applycation\\NewStore.Applycation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T13:00:33.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
